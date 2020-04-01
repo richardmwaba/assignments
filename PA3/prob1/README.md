@@ -13,9 +13,9 @@ target machine for testing purposes.
 
 ## Prerequisites
 
-g++ compiler
-C++ libraries
-C++ pthread libraries
+- g++ compiler
+- C++ libraries
+- C++ pthread libraries
 
 ## Compilation and Cleaning
 
@@ -52,10 +52,10 @@ the correct arguments will result in unexpected output and behavior (Disclaimer 
 [username@localhost dir]$./part1 -b 1 -p 5 -c 5 -i 10
 ```
 The above command will be interpreted as;
-    -b 1 = create a buffer of size 1
-    -p 5 = create 5 producer threads to insert items into the buffer
-    -c 5 = create 5 consumer threads to consume items from the buffer
-    -i 10 = produce and insert only 10 items into the buffer
+- -b 1 = create a buffer of size 1
+- -p 5 = create 5 producer threads to insert items into the buffer
+- -c 5 = create 5 consumer threads to consume items from the buffer
+- -i 10 = produce and insert only 10 items into the buffer
 
 The items to be inserted are specified inside the program.
 

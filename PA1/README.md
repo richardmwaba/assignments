@@ -18,8 +18,8 @@ target machine for testing purposes.
 
 ## Prerequisites
 
-g++ compiler
-C++ libraries
+- g++ compiler
+- C++ libraries
 
 ## Compilation and Cleaning
 

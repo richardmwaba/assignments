@@ -11,5 +11,5 @@ assignment.
 
 ## Prerequisites
 
-g++ compiler
-C++ libraries
+- g++ compiler
+- C++ libraries
