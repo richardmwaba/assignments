@@ -1,7 +1,6 @@
-# CSCE 851 Programming Assignments
+# Programming Assignments
 
-This project contains all the assignments that were given for the OS course
-I took at UNL
+Operating Systems course assignments.
 
 
 ## Getting Started
